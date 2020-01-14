@@ -1,0 +1,56 @@
+C# Completo 2020 Programação Orientada a Objetos + Projetos
+
+Seção 1: Apresentação do Curso e Orientações
+
+Pilares:
+
+- OOP - Orientação a Objetos
+
+- C# - Linguagem que será utilizada
+
+- Tecnologias - Ex: ASP .Net Core (Aplicações Web), Entity Framework (Mapeamento relacional com Banco de Dados)
+
+- Teorias + Práticas para treinamento reais.
+
+========================
+
+Desenvolvimento de Projetos
+
+1- Xadrez
+2- Sistema de Vendas
+
+Pré-Requisitos: Saber Lógica de Programação em qualquer Linguagem.
+
+========================
+
+Seção 2: Introdução a C# e .Net
+
+C# e .Net
+Estrutura de uma aplicação C# e .Net
+Compilação e Interpretação
+
+
+C#: É uma linguagem de Programação
+.Net: É uma plataforma de desenvolvimento para criar diversos tipos de aplicações.  
+
+
+Namespace =  agrupamento lógico de classes.
+    Ex: Entities, Services e Repositories (Dentro de cada grupo desse fica as classes relacionadas)
+
+Assembly é a DLL ou EXE onde pode ser as divisões de módulos    
+
+Solution    -> Aplicação (Pode conter mais de um Project)
+Project     -> Assembly(Vários Namespace, com várias classes)
+
+
+Atalhos
+Ctrl + K + D = Indentação automatica.
+Ctrl + F5 = Executa e Pausa no final.
+
+
+========================
+
+Seção 3: Recapitulando Lógica de Programação usando C#
+
+Camel Case: testeCamelCase
+Pascal Case: TesteCamelCase

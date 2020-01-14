@@ -1,0 +1,11 @@
+C:\Users\Poltrinho\Documents\MEGA\Cursos\C-Completo-2020-Programa-o-Orientada-a-Objetos-Projetos\Primeiro\Primeiro\bin\Debug\netcoreapp2.0\Primeiro.deps.json
+C:\Users\Poltrinho\Documents\MEGA\Cursos\C-Completo-2020-Programa-o-Orientada-a-Objetos-Projetos\Primeiro\Primeiro\bin\Debug\netcoreapp2.0\Primeiro.runtimeconfig.json
+C:\Users\Poltrinho\Documents\MEGA\Cursos\C-Completo-2020-Programa-o-Orientada-a-Objetos-Projetos\Primeiro\Primeiro\bin\Debug\netcoreapp2.0\Primeiro.runtimeconfig.dev.json
+C:\Users\Poltrinho\Documents\MEGA\Cursos\C-Completo-2020-Programa-o-Orientada-a-Objetos-Projetos\Primeiro\Primeiro\bin\Debug\netcoreapp2.0\Primeiro.dll
+C:\Users\Poltrinho\Documents\MEGA\Cursos\C-Completo-2020-Programa-o-Orientada-a-Objetos-Projetos\Primeiro\Primeiro\bin\Debug\netcoreapp2.0\Primeiro.pdb
+C:\Users\Poltrinho\Documents\MEGA\Cursos\C-Completo-2020-Programa-o-Orientada-a-Objetos-Projetos\Primeiro\Primeiro\obj\Debug\netcoreapp2.0\Primeiro.csprojResolveAssemblyReference.cache
+C:\Users\Poltrinho\Documents\MEGA\Cursos\C-Completo-2020-Programa-o-Orientada-a-Objetos-Projetos\Primeiro\Primeiro\obj\Debug\netcoreapp2.0\Primeiro.csproj.CoreCompileInputs.cache
+C:\Users\Poltrinho\Documents\MEGA\Cursos\C-Completo-2020-Programa-o-Orientada-a-Objetos-Projetos\Primeiro\Primeiro\obj\Debug\netcoreapp2.0\Primeiro.AssemblyInfoInputs.cache
+C:\Users\Poltrinho\Documents\MEGA\Cursos\C-Completo-2020-Programa-o-Orientada-a-Objetos-Projetos\Primeiro\Primeiro\obj\Debug\netcoreapp2.0\Primeiro.AssemblyInfo.cs
+C:\Users\Poltrinho\Documents\MEGA\Cursos\C-Completo-2020-Programa-o-Orientada-a-Objetos-Projetos\Primeiro\Primeiro\obj\Debug\netcoreapp2.0\Primeiro.dll
+C:\Users\Poltrinho\Documents\MEGA\Cursos\C-Completo-2020-Programa-o-Orientada-a-Objetos-Projetos\Primeiro\Primeiro\obj\Debug\netcoreapp2.0\Primeiro.pdb
