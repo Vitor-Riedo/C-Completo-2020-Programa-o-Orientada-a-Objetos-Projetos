@@ -6,7 +6,7 @@ namespace Primeiro
     class Program
     {
         static void Main(string[] args)
-        {
+        {/*
             double x = 10.35784;
             int y = 32;
             string z = "Maria";
@@ -35,7 +35,25 @@ namespace Primeiro
             //Interpolação.
             Console.WriteLine($"{z} tem {y} anos, logo ele nasceu em {DateTime.Now.Year-y}.");
 
-            Console.ReadLine();
+            *//*
+            String frase = Console.ReadLine();
+
+            String x = Console.ReadLine();
+            String y = Console.ReadLine();
+            String z = Console.ReadLine();
+            */
+
+            string[] partes = Console.ReadLine().Split(' ');
+            /*
+            Console.WriteLine("\n"+frase);
+            Console.WriteLine(x);
+            Console.WriteLine(y);
+            Console.WriteLine(z);
+            */
+            foreach (var item in partes)
+            {
+                Console.WriteLine(item);
+            }
         }
     }
 }

@@ -54,3 +54,13 @@ Seção 3: Recapitulando Lógica de Programação usando C#
 
 Camel Case: testeCamelCase
 Pascal Case: TesteCamelCase
+
+
+Cast é uma conversão explícita entre tipos compatíveis 
+
+
+========================
+
+Seção 4: Classes, atributos, métodos e membros estáticos.
+
+
